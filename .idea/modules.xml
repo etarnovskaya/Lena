@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lena.iml" filepath="$PROJECT_DIR$/.idea/Lena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LiteC-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/LiteC-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LiteC-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LiteC-tests_main.iml" group="LiteC-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LiteC-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LiteC-tests_test.iml" group="LiteC-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mantis-Tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Mantis-Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mantis-Tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mantis-Tests_main.iml" group="Mantis-Tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mantis-Tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mantis-Tests_test.iml" group="Mantis-Tests" />
+    </modules>
+  </component>
+</project>
