@@ -18,6 +18,7 @@ public class ApplicationManager {
   WebDriver wd;
 
   private String browser;
+ 
 
   public ApplicationManager(String browser) {
     this.browser = browser;
@@ -43,5 +44,15 @@ public class ApplicationManager {
     wd.quit();
   }
 
+public  HTTPSession newSession(){
+    return  new HTTPSession(this);
+}
 
+  public String getProperty(String key) {
+    return properties.getProperty(key);
+  }
+
+  public RegistrationHelper registration() {
+    return  new RegistrationHelper(this);
+  }
 }
